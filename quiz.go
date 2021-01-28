@@ -42,7 +42,6 @@ func main() {
 		} else {
 			fmt.Println("Wrong the answer is:", quizItem.Answer)
 		}
-		// fmt.Println("Answer :", quizItem.Answer)
-
+		
 	}
 }
